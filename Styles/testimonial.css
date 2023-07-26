@@ -18,6 +18,8 @@
     align-items: flex-start;
     justify-content: center;
     flex-wrap: wrap;
+    padding-left: 90px;
+    padding-right: 90px;
 }
 .testimonial-item{ 
     padding: 16px;
