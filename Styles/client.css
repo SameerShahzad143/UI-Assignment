@@ -1,0 +1,19 @@
+.client-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.client-list{
+    margin: 2em 0;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+@media screen and (max-width : 750px) {
+    .client-container{
+        display: none;
+    }
+}
