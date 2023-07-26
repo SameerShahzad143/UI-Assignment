@@ -19,6 +19,7 @@
     font-size: 1rem;
     font-weight: 500;
     letter-spacing: -0.1px;
+    width:300px;
 }
 .features-container div div{
     background-color: #F5FAFF;
@@ -107,10 +108,7 @@
 }
 
 @media screen and (min-width : 750px) {
-    .features-container{
-        padding-left:100px;
-        padding-right: 100px;
-    }
+     
     .features-container > div{
         min-width: 20%;
     }
